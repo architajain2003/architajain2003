@@ -15,6 +15,8 @@
 </p>
 
 [![CodeChef](https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png)](https://www.codechef.com/users/archita_0411)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/archita-jain-b33486229/)
+
 
 
 <p align="center">Introducing my GitHub profile 🚀 I'm a dedicated computer science student at Guru Gobind Singh Indraprastha University, where I'm pursuing my B.Tech in CSE. My expertise lies in C++ data structures and algorithms, and I enjoy learning about web development with the MERN stack.</p>
