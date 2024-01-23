@@ -4,18 +4,19 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-<p align="center">
+<h1 align="center">
   <strong>Hello, I'm Archita Jain!✨</strong>
-</p>
+</h1>
 
-
+<p align="center">
 <a href="https://www.linkedin.com/in/archita-jain-b33486229/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+</p>
 
 
 <p align="center">Introducing my GitHub profile 🚀 I'm a dedicated computer science student at Guru Gobind Singh Indraprastha University, where I'm pursuing my B.Tech in CSE. My expertise lies in C++ data structures and algorithms, and I enjoy learning about web development with the MERN stack.</p>
-
+<hr>
 <p align="center">
   <h1>Skills Summary</h1>
 </p>
