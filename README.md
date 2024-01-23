@@ -4,7 +4,7 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
-### Hello, I'm Archita Jain!✨
+ <P align="center">### Hello, I'm Archita Jain!✨</p>
 
 <a href="https://www.linkedin.com/in/archita-jain-b33486229/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -27,10 +27,10 @@
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=architajain2003&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Your Contributions](https://github.com/architajain2003)
+<!-- ![Your Contributions](https://github.com/architajain2003)
 ![Your GitHub Activity](https://activity-graph.herokuapp.com/graph?username=architajain2003)
 
-
+--!>
 
 <!--
 **architajain2003/architajain2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
