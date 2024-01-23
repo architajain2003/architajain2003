@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </p>
+
 [![CodeChef](https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png)](https://www.codechef.com/users/archita_0411)
 
 
