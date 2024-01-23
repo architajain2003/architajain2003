@@ -12,6 +12,19 @@
 <a href="https://www.linkedin.com/in/archita-jain-b33486229/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+ <a href="https://www.codechef.com/users/archita_0411" target="_blank">
+  <img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="CodeChef" height="20">
+</a>
+<a href="https://medium.com/@architajain2003" target="_blank">
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/15_social-512.png" alt="Medium" height="20">
+</a>
+<a href="https://leetcode.com/architajain2003/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20">
+</a>
+<a href="https://auth.geeksforgeeks.org/user/architajcj4x" target="_blank">
+  <img src="https://pbs.twimg.com/profile_images/732009607/GfGProfileLogo_400x400.png" alt="GeeksforGeeks" height="20">
+</a>
+
 </p>
 
 
