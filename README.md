@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/architajain2003/architajain2003/blob/main/my%20image.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/architajain2003/architajain2003/blob/main/my%20image.jpg">
+ <img alt="" src="https://github.com/architajain2003/architajain2003/blob/main/my%20image.jpg">
 </picture>
 
 <h1 align="center">
