@@ -22,10 +22,10 @@
 </h2>
 
 <p align="center">
-• Languages: C++, C,Javascript <br>
-• Technologies: HTML, CSS, Bootstrap5, Nodejs, Git, GCP <br>
-• Course Skills: Data Structures, Object Oriented Programming, Database Management System <br>
-• Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management <br>
+• <strong>Languages:</strong> C++, C,Javascript <br>
+• <strong>Technologies:</strong> HTML, CSS, Bootstrap5, Nodejs, Git, GCP <br>
+• <strong>Course Skills:</strong> Data Structures, Object Oriented Programming, Database Management System <br>
+• <strong>Soft Skills:</strong> Leadership, Event Management, Writing, Public Speaking, Time Management <br>
 </p>
 
 <h2 align="center">
