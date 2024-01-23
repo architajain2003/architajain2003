@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 </p>
+[![CodeChef](https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png)](https://www.codechef.com/users/archita_0411)
 
 
 <p align="center">Introducing my GitHub profile 🚀 I'm a dedicated computer science student at Guru Gobind Singh Indraprastha University, where I'm pursuing my B.Tech in CSE. My expertise lies in C++ data structures and algorithms, and I enjoy learning about web development with the MERN stack.</p>
@@ -21,7 +22,7 @@
   <strong>Skills Summary</strong>
 </h2>
 
-<p align="center">
+<p>
 • <strong>Languages:</strong> C++, C,Javascript <br>
 • <strong>Technologies:</strong> HTML, CSS, Bootstrap5, Nodejs, Git, GCP <br>
 • <strong>Course Skills:</strong> Data Structures, Object Oriented Programming, Database Management System <br>
