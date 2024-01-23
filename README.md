@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/architajain2003/architajain2003/blob/main/my%20image.jpg" alt="Profile Image" width="100" height="100" style="border-radius: 50%;">
-</p>
-
-
 <h1 align="center">
   <strong>Hello, I'm Archita Jain!✨</strong>
 </h1>
@@ -11,7 +6,7 @@
 <a href="https://www.linkedin.com/in/archita-jain-b33486229/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
- <a href="https://www.codechef.com/users/archita_0411" target="_blank">
+<!--  <a href="https://www.codechef.com/users/archita_0411" target="_blank">
   <img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="CodeChef" height="20">
 </a>
 <a href="https://medium.com/@architajain2003" target="_blank">
@@ -24,7 +19,7 @@
   <img src="https://pbs.twimg.com/profile_images/732009607/GfGProfileLogo_400x400.png" alt="GeeksforGeeks" height="15">
 </a>&nbsp;
 <kbd style="background-color: #4CAF50; color: white; padding: 2px 6px; border-radius: 4px;">GeeksforGeeks</kbd>
-
+ -->
 
 </p>
 
