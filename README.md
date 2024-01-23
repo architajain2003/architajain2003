@@ -25,9 +25,10 @@
 </p>
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=architajain2003&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=architajain2003)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Your Contributions](https://github.com/architajain2003)
+![Your GitHub Activity](https://activity-graph.herokuapp.com/graph?username=architajain2003)
 
 
 
