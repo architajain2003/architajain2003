@@ -22,8 +22,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20">
 </a>
 <a href="https://auth.geeksforgeeks.org/user/architajcj4x" target="_blank">
-  <img src="https://pbs.twimg.com/profile_images/732009607/GfGProfileLogo_400x400.png" alt="GeeksforGeeks" height="20">
-</a>
+  <img src="https://pbs.twimg.com/profile_images/732009607/GfGProfileLogo_400x400.png" alt="GeeksforGeeks" height="15">
+</a>&nbsp;
+<kbd style="background-color: #4CAF50; color: white; padding: 2px 6px; border-radius: 4px;">GeeksforGeeks</kbd>
+
 
 </p>
 
