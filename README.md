@@ -1,8 +1,7 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/architajain2003/architajain2003/blob/main/my%20image.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/architajain2003/architajain2003/blob/main/my%20image.jpg">
- <img alt="" src="https://github.com/architajain2003/architajain2003/blob/main/my%20image.jpg">
-</picture>
+<p align="center">
+  <img src="https://github.com/architajain2003/architajain2003/blob/main/my%20image.jpg" alt="Profile Image" width="100" height="100" style="border-radius: 50%;">
+</p>
+
 
 <h1 align="center">
   <strong>Hello, I'm Archita Jain!✨</strong>
