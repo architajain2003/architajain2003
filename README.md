@@ -4,7 +4,10 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
- <P align="center">### Hello, I'm Archita Jain!✨</p>
+<p align="center">
+  <strong>Hello, I'm Archita Jain!✨</strong>
+</p>
+
 
 <a href="https://www.linkedin.com/in/archita-jain-b33486229/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -18,10 +21,10 @@
 </p>
 
 <p align="center">
-• Languages: C++, C,Javascript
-• Technologies: HTML, CSS, Bootstrap5, Nodejs, Git, GCP
-• Course Skills: Data Structures, Object Oriented Programming, Database Management System
-• Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management
+• Languages: C++, C,Javascript <br>
+• Technologies: HTML, CSS, Bootstrap5, Nodejs, Git, GCP <br>
+• Course Skills: Data Structures, Object Oriented Programming, Database Management System <br>
+• Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management <br>
 </p>
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=architajain2003&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
