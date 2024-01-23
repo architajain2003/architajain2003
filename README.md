@@ -16,10 +16,10 @@
 
 
 <p align="center">Introducing my GitHub profile 🚀 I'm a dedicated computer science student at Guru Gobind Singh Indraprastha University, where I'm pursuing my B.Tech in CSE. My expertise lies in C++ data structures and algorithms, and I enjoy learning about web development with the MERN stack.</p>
-<hr>
-<p align="center">
-  <h1>Skills Summary</h1>
-</p>
+
+<h1 align="center">
+  <strong>Skills Summary</strong>
+</h1>
 
 <p align="center">
 • Languages: C++, C,Javascript <br>
@@ -28,7 +28,9 @@
 • Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management <br>
 </p>
 
+<p align="center">
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=architajain2003&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 <!-- ![Your Contributions](https://github.com/architajain2003)
