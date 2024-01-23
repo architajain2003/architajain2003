@@ -28,10 +28,20 @@
 • Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management <br>
 </p>
 
-
+<h2 align="center">
+  <strong>Github Stats</strong>
+</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=architajain2003&show_icons=true&theme=radical&custom_title=Customized%20GitHub%20Stats" alt="Customized GitHub Stats">
 </p>
+
+<h2 align="center">
+  <strong>Github Contributions</strong>
+</h2>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=architajain2003&theme=radical" alt="GitHub Contributions">
+</p>
+
 
 
 
